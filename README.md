@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I’m a **frontend & full-stack enthusiast** explo
 
 ## 🔗 Portfolio & Projects
 
-- [medCare](https://ElvisAmbulo.github.io/medCare/) – My health care website project  
+- [medCare](https://ElvisAmbulo.github.io/medCare/) – My health care website project
+- [notesApp](https://notesapp-ymna.onrender.com/) - My notes app project
 - More projects coming soon!  
 
 ---
