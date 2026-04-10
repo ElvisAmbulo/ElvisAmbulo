@@ -1,47 +1,63 @@
-# Hi there, I'm Elvis Ambulo
+# Elvis Ambulo
 
-Welcome to my GitHub profile! I’m a **frontend & full-stack enthusiast** exploring web development, automation, and tech projects.
-
----
-
-##  Skills
-
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
-- **Backend:** Python, Flask  
-- **Tools:** Git, GitHub, VS Code, MySQL, Netlify  
+Full-Stack Developer building scalable, user-focused web applications with modern technologies.
 
 ---
 
-##  Featured Projects
+## Technical Skills
 
-### Tech & Digital Services
-* **[Expertech Cyber](https://expertechcyber.netlify.app/)** – A comprehensive digital service platform for a Kenyan-based cyber cafe. Features a 24/7 service model for KRA, eCitizen, and design services with a focus on local accessibility.
-
-### Hospitality & Leisure
-* **[El Paraiso Gardens](https://elparaisogardens.netlify.app/)** – A high-end resort and gardens website designed for the hospitality industry. Showcases event spaces, accommodation, and leisure amenities with a clean, inviting UI.
-
-### Healthcare & Productivity
-* **[medCare](https://ElvisAmbulo.github.io/medCare/)** – A modern healthcare landing page project.
-
-### Notes App
-* **[notesApp](https://notesapp-ymna.onrender.com/)** – A functional web application for task management and note-taking.
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+**Backend:** Python, Flask
+**Database:** MySQL
+**Tools & Platforms:** Git, GitHub, VS Code, Netlify, Vercel
 
 ---
 
-## 📈 GitHub Stats
+## Projects
 
-![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisAmbulo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAmbulo&layout=compact&theme=radical)
+### Expertech Cyber
 
----
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=readthedocs)](https://ElvisAmbulo.github.io/medCare/)  
+**Cyber Booking System**
+A web-based booking platform designed for cyber café operations, enabling users to schedule services efficiently while improving service management and accessibility.
+**Tech Stack:** HTML, CSS, JavaScript
+**Live:** https://expertech.vercel.app
 
 ---
 
-## Fun Fact
+### eTech Softwares
 
-I love building digital solutions that bridge the gap between local businesses and the modern web!
+**Company Website**
+A professional corporate website for a software company, focused on branding, service presentation, and client engagement.
+**Tech Stack:** HTML, CSS, JavaScript
+**Live:** https://etechsoftwares.vercel.app
+
+---
+
+### DevMatrix
+
+**Project Management System**
+A project management system tailored for developers to manage tasks, workflows, and collaboration within software development environments.
+**Tech Stack:** React, JavaScript
+**Live:** https://devmatrix-nine.vercel.app
+
+---
+
+### El Paraiso Gardens
+
+**Restaurant Website**
+A modern hospitality website showcasing services, ambience, and offerings, with emphasis on clean design and user experience.
+**Tech Stack:** HTML, CSS, JavaScript
+**Live:** https://elparaisogardens.vercel.app
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElvisAmbulo\&show_icons=true\&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAmbulo\&layout=compact\&theme=default)
+
+---
+
+## Professional Links
+
+LinkedIn: https://linkedin.com/in/your-profile
