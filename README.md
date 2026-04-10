@@ -53,11 +53,9 @@ A modern hospitality website showcasing services, ambience, and offerings, with 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElvisAmbulo\&show_icons=true\&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAmbulo\&layout=compact\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElvisAmbulo\&show_icons=true\&count_private=true\&theme=tokyonight\&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=ElvisAmbulo\&theme=tokyonight\&hide_border=true)
 
-## Professional Links
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAmbulo\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-LinkedIn: https://linkedin.com/in/your-profile
