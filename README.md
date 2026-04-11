@@ -8,8 +8,9 @@ Full-Stack Developer building scalable, user-focused web applications with moder
 
 **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
 **Backend:** Python, Flask
-**Database:** MySQL
-**Tools & Platforms:** Git, GitHub, VS Code, Netlify, Vercel
+
+**Database:** MySQL, PostgreSQL
+**Tools & Platforms:** Git, GitHub, VS Code, Netlify, Vercel, Supabase
 
 ---
 
