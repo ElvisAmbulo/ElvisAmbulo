@@ -21,6 +21,7 @@ Full-Stack Developer building scalable, user-focused web applications with moder
 **Cyber Booking System**
 A web-based booking platform designed for cyber café operations, enabling users to schedule services efficiently while improving service management and accessibility.
 **Tech Stack:** HTML, CSS, JavaScript
+
 **Live:** https://expertech.vercel.app
 
 ---
@@ -30,6 +31,7 @@ A web-based booking platform designed for cyber café operations, enabling users
 **Company Website**
 A professional corporate website for a software company, focused on branding, service presentation, and client engagement.
 **Tech Stack:** HTML, CSS, JavaScript
+
 **Live:** https://etechsoftwares.vercel.app
 
 ---
@@ -39,6 +41,7 @@ A professional corporate website for a software company, focused on branding, se
 **Project Management System**
 A project management system tailored for developers to manage tasks, workflows, and collaboration within software development environments.
 **Tech Stack:** React, JavaScript
+
 **Live:** https://devmatrix-nine.vercel.app
 
 ---
@@ -48,6 +51,7 @@ A project management system tailored for developers to manage tasks, workflows, 
 **Restaurant Website**
 A modern hospitality website showcasing services, ambience, and offerings, with emphasis on clean design and user experience.
 **Tech Stack:** HTML, CSS, JavaScript
+
 **Live:** https://elparaisogardens.vercel.app
 
 ---
